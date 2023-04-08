@@ -1,0 +1,1 @@
+In this project uses Elasticsearch and Node.js to create a search engine that can handle large amounts of data and deliver accurate results quickly.
